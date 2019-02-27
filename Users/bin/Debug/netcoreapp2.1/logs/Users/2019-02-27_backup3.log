@@ -1,0 +1,28 @@
+[2019-02-27 12:22:16.5955][HYDHTC135611L][Info] Request starting HTTP/1.1 DEBUG http://localhost:51501/  0 
+[2019-02-27 12:22:16.5955][HYDHTC135611L][Info] Request starting HTTP/1.1 GET http://localhost:44366/api/values   
+[2019-02-27 12:22:16.5955][HYDHTC135611L][Info] Request starting HTTP/1.1 GET http://localhost:44366/api/Users   
+[2019-02-27 12:22:16.8887][HYDHTC135611L][Info] Request finished in 298.7166ms 200  
+[2019-02-27 12:22:17.2401][HYDHTC135611L][Info] Route matched with {action = "Get", controller = "Values"}. Executing action Users.Controllers.ValuesController.Get (Users) 
+[2019-02-27 12:22:17.2456][HYDHTC135611L][Info] Route matched with {action = "GetUsers", controller = "Users"}. Executing action Users.Controllers.UsersController.GetUsers (Users) 
+[2019-02-27 12:22:17.4046][HYDHTC135611L][Info] Executing action method Users.Controllers.UsersController.GetUsers (Users) - Validation state: Valid 
+[2019-02-27 12:22:17.4046][HYDHTC135611L][Info] Executing action method Users.Controllers.ValuesController.Get (Users) - Validation state: Valid 
+[2019-02-27 12:22:17.4539][HYDHTC135611L][Info] Executed action method Users.Controllers.ValuesController.Get (Users), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.6372ms. 
+[2019-02-27 12:22:17.4985][HYDHTC135611L][Info] Executing ObjectResult, writing value of type 'System.String[]'. 
+[2019-02-27 12:22:17.4985][HYDHTC135611L][Info] Start processing HTTP request GET https://localhost:44348/api/Hierarchy/GrandParent 
+[2019-02-27 12:22:17.6135][HYDHTC135611L][Info] Sending HTTP request GET https://localhost:44348/api/Hierarchy/GrandParent 
+[2019-02-27 12:22:17.8265][HYDHTC135611L][Info] Executed action Users.Controllers.ValuesController.Get (Users) in 564.4831ms 
+[2019-02-27 12:22:17.8475][HYDHTC135611L][Info] Request finished in 1279.5118ms 200 application/json; charset=utf-8 
+[2019-02-27 12:22:22.7796][HYDHTC135611L][Info] Sending HTTP request GET https://localhost:44348/api/Hierarchy/GrandParent 
+[2019-02-27 12:22:29.0901][HYDHTC135611L][Info] Executed action method Users.Controllers.UsersController.GetUsers (Users), returned result Microsoft.AspNetCore.Mvc.BadRequestObjectResult in 11677.9735ms. 
+[2019-02-27 12:22:29.0901][HYDHTC135611L][Info] Executing ObjectResult, writing value of type 'Users.Helper.ResultEntity'. 
+[2019-02-27 12:22:29.1285][HYDHTC135611L][Info] Executed action Users.Controllers.UsersController.GetUsers (Users) in 11857.6391ms 
+[2019-02-27 12:22:29.1654][HYDHTC135611L][Info] Request finished in 12567.8332ms 400 application/json; charset=utf-8 
+[2019-02-27 12:27:31.1348][HYDHTC135611L][Info] Request starting HTTP/1.1 GET http://localhost:44366/api/values   
+[2019-02-27 12:27:31.1348][HYDHTC135611L][Info] Request starting HTTP/1.1 DEBUG http://localhost:51501/  0 
+[2019-02-27 12:27:31.2913][HYDHTC135611L][Info] Request finished in 162.5098ms 200  
+[2019-02-27 12:27:31.7358][HYDHTC135611L][Info] Route matched with {action = "Get", controller = "Values"}. Executing action Users.Controllers.ValuesController.Get (Users) 
+[2019-02-27 12:27:31.8795][HYDHTC135611L][Info] Executing action method Users.Controllers.ValuesController.Get (Users) - Validation state: Valid 
+[2019-02-27 12:27:31.8947][HYDHTC135611L][Info] Executed action method Users.Controllers.ValuesController.Get (Users), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.4814ms. 
+[2019-02-27 12:27:31.9189][HYDHTC135611L][Info] Executing ObjectResult, writing value of type 'System.String[]'. 
+[2019-02-27 12:27:31.9842][HYDHTC135611L][Info] Executed action Users.Controllers.ValuesController.Get (Users) in 226.7643ms 
+[2019-02-27 12:27:32.0024][HYDHTC135611L][Info] Request finished in 883.9847ms 200 application/json; charset=utf-8 

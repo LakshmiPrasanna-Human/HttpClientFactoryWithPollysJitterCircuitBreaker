@@ -1,0 +1,30 @@
+[2019-02-27 10:45:39.9455][HYDHTC135611L][Info] Request starting HTTP/1.1 GET http://localhost:44348/api/Hierarchy/GrandParent   
+[2019-02-27 10:45:40.2982][HYDHTC135611L][Info] Route matched with {action = "GetGrandParents", controller = "GrandParent"}. Executing action Hierarchy.GrandParentController.GetGrandParents (Hierarchy) 
+[2019-02-27 10:45:40.3229][HYDHTC135611L][Info] Executing action method Hierarchy.GrandParentController.GetGrandParents (Hierarchy) - Validation state: Valid 
+[2019-02-27 10:45:40.3335][HYDHTC135611L][Info] Executed action method Hierarchy.GrandParentController.GetGrandParents (Hierarchy), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 4.5584ms. 
+[2019-02-27 10:45:40.3618][HYDHTC135611L][Info] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Hierarchy.Models.GrandParentModel, Hierarchy, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'. 
+[2019-02-27 10:45:40.5031][HYDHTC135611L][Info] Executed action Hierarchy.GrandParentController.GetGrandParents (Hierarchy) in 193.753ms 
+[2019-02-27 10:45:40.5177][HYDHTC135611L][Info] Request finished in 591.2886ms 200 application/json; charset=utf-8 
+[2019-02-27 12:34:13.6350][HYDHTC135611L][Info] Request starting HTTP/1.1 DEBUG http://localhost:51541/  0 
+[2019-02-27 12:34:13.6350][HYDHTC135611L][Info] Request starting HTTP/1.1 GET http://localhost:44348/api/values   
+[2019-02-27 12:34:13.8150][HYDHTC135611L][Info] Request finished in 171.3623ms 200  
+[2019-02-27 12:34:14.1483][HYDHTC135611L][Info] Route matched with {action = "Get", controller = "Values"}. Executing action Hierarchy.Controllers.ValuesController.Get (Hierarchy) 
+[2019-02-27 12:34:14.2894][HYDHTC135611L][Info] Executing action method Hierarchy.Controllers.ValuesController.Get (Hierarchy) - Validation state: Valid 
+[2019-02-27 12:34:14.3038][HYDHTC135611L][Info] Executed action method Hierarchy.Controllers.ValuesController.Get (Hierarchy), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.4651ms. 
+[2019-02-27 12:34:14.3229][HYDHTC135611L][Info] Executing ObjectResult, writing value of type 'System.String[]'. 
+[2019-02-27 12:34:14.3996][HYDHTC135611L][Info] Executed action Hierarchy.Controllers.ValuesController.Get (Hierarchy) in 218.4736ms 
+[2019-02-27 12:34:14.4282][HYDHTC135611L][Info] Request finished in 803.7384ms 200 application/json; charset=utf-8 
+[2019-02-27 12:34:14.8504][HYDHTC135611L][Info] Request starting HTTP/1.1 GET http://localhost:44348/favicon.ico   
+[2019-02-27 12:34:14.9368][HYDHTC135611L][Info] Route matched with {action = "Get", controller = "GrandParent"}. Executing action Hierarchy.GrandParentController.Get (Hierarchy) 
+[2019-02-27 12:34:15.0817][HYDHTC135611L][Info] Executing action method Hierarchy.GrandParentController.Get (Hierarchy) with arguments (0) - Validation state: Invalid 
+[2019-02-27 12:34:15.0817][HYDHTC135611L][Info] Executed action method Hierarchy.GrandParentController.Get (Hierarchy), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.2272ms. 
+[2019-02-27 12:34:15.0912][HYDHTC135611L][Info] Executing ObjectResult, writing value of type 'System.String'. 
+[2019-02-27 12:34:15.0912][HYDHTC135611L][Info] Executed action Hierarchy.GrandParentController.Get (Hierarchy) in 136.2436ms 
+[2019-02-27 12:34:15.0912][HYDHTC135611L][Info] Request finished in 251.3408ms 200 text/plain; charset=utf-8 
+[2019-02-27 12:34:32.9184][HYDHTC135611L][Info] Request starting HTTP/1.1 GET http://localhost:44348/api/Hierarchy/GrandParent   
+[2019-02-27 12:34:32.9514][HYDHTC135611L][Info] Route matched with {action = "GetGrandParents", controller = "GrandParent"}. Executing action Hierarchy.GrandParentController.GetGrandParents (Hierarchy) 
+[2019-02-27 12:34:33.0107][HYDHTC135611L][Info] Executing action method Hierarchy.GrandParentController.GetGrandParents (Hierarchy) - Validation state: Valid 
+[2019-02-27 12:34:37.6666][HYDHTC135611L][Info] Executed action method Hierarchy.GrandParentController.GetGrandParents (Hierarchy), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 4648.0338ms. 
+[2019-02-27 12:34:37.7394][HYDHTC135611L][Info] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Hierarchy.Models.GrandParentModel, Hierarchy, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'. 
+[2019-02-27 12:34:37.7649][HYDHTC135611L][Info] Executed action Hierarchy.GrandParentController.GetGrandParents (Hierarchy) in 4791.9164ms 
+[2019-02-27 12:34:37.7649][HYDHTC135611L][Info] Request finished in 4852.5334ms 200 application/json; charset=utf-8 

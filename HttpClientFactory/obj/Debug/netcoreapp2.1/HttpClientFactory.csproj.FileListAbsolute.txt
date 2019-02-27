@@ -1,0 +1,12 @@
+D:\Architecture\Microsoervices\HttpClientFactory\HttpClientFactory\obj\Debug\netcoreapp2.1\HttpClientFactory.csproj.CoreCompileInputs.cache
+D:\Architecture\Microsoervices\HttpClientFactory\HttpClientFactory\obj\Debug\netcoreapp2.1\HttpClientFactory.AssemblyInfoInputs.cache
+D:\Architecture\Microsoervices\HttpClientFactory\HttpClientFactory\obj\Debug\netcoreapp2.1\HttpClientFactory.AssemblyInfo.cs
+D:\Architecture\Microsoervices\HttpClientFactory\HttpClientFactory\bin\Debug\netcoreapp2.1\HttpClientFactory.deps.json
+D:\Architecture\Microsoervices\HttpClientFactory\HttpClientFactory\bin\Debug\netcoreapp2.1\HttpClientFactory.dll
+D:\Architecture\Microsoervices\HttpClientFactory\HttpClientFactory\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+D:\Architecture\Microsoervices\HttpClientFactory\HttpClientFactory\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+D:\Architecture\Microsoervices\HttpClientFactory\HttpClientFactory\obj\Debug\netcoreapp2.1\HttpClientFactory.csproj.CopyComplete
+D:\Architecture\Microsoervices\HttpClientFactory\HttpClientFactory\bin\Debug\netcoreapp2.1\HttpClientFactory.pdb
+D:\Architecture\Microsoervices\HttpClientFactory\HttpClientFactory\obj\Debug\netcoreapp2.1\HttpClientFactory.dll
+D:\Architecture\Microsoervices\HttpClientFactory\HttpClientFactory\obj\Debug\netcoreapp2.1\HttpClientFactory.pdb
+D:\Architecture\Microsoervices\HttpClientFactory\HttpClientFactory\obj\Debug\netcoreapp2.1\HttpClientFactory.csprojAssemblyReference.cache

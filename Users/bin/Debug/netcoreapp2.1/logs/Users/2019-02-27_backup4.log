@@ -1,0 +1,11 @@
+[2019-02-27 12:27:45.0543][HYDHTC135611L][Info] Request starting HTTP/1.1 GET http://localhost:44366/api/Users   
+[2019-02-27 12:27:45.0772][HYDHTC135611L][Info] Route matched with {action = "GetUsers", controller = "Users"}. Executing action Users.Controllers.UsersController.GetUsers (Users) 
+[2019-02-27 12:27:45.1101][HYDHTC135611L][Info] Executing action method Users.Controllers.UsersController.GetUsers (Users) - Validation state: Valid 
+[2019-02-27 12:27:45.1563][HYDHTC135611L][Info] Start processing HTTP request GET https://localhost:44348/api/Hierarchy/GrandParent 
+[2019-02-27 12:27:45.1960][HYDHTC135611L][Info] Sending HTTP request GET https://localhost:44348/api/Hierarchy/GrandParent 
+[2019-02-27 12:27:49.6084][HYDHTC135611L][Info] Sending HTTP request GET https://localhost:44348/api/Hierarchy/GrandParent 
+[2019-02-27 12:27:55.7467][HYDHTC135611L][Info] Sending HTTP request GET https://localhost:44348/api/Hierarchy/GrandParent 
+[2019-02-27 12:28:05.9725][HYDHTC135611L][Info] Executed action method Users.Controllers.UsersController.GetUsers (Users), returned result Microsoft.AspNetCore.Mvc.BadRequestObjectResult in 20857.8603ms. 
+[2019-02-27 12:28:06.0109][HYDHTC135611L][Info] Executing ObjectResult, writing value of type 'Users.Helper.ResultEntity'. 
+[2019-02-27 12:28:06.0409][HYDHTC135611L][Info] Executed action Users.Controllers.UsersController.GetUsers (Users) in 20958.0102ms 
+[2019-02-27 12:28:06.0409][HYDHTC135611L][Info] Request finished in 20991.5539ms 400 application/json; charset=utf-8 

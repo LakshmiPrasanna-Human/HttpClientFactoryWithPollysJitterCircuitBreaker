@@ -1,0 +1,13 @@
+D:\Architecture\Microsoervices\HttpClientFactory\Hierarchy\obj\Debug\netcoreapp2.1\Hierarchy.csproj.CoreCompileInputs.cache
+D:\Architecture\Microsoervices\HttpClientFactory\Hierarchy\obj\Debug\netcoreapp2.1\Hierarchy.RazorAssemblyInfo.cache
+D:\Architecture\Microsoervices\HttpClientFactory\Hierarchy\obj\Debug\netcoreapp2.1\Hierarchy.RazorAssemblyInfo.cs
+D:\Architecture\Microsoervices\HttpClientFactory\Hierarchy\obj\Debug\netcoreapp2.1\Hierarchy.AssemblyInfoInputs.cache
+D:\Architecture\Microsoervices\HttpClientFactory\Hierarchy\obj\Debug\netcoreapp2.1\Hierarchy.AssemblyInfo.cs
+D:\Architecture\Microsoervices\HttpClientFactory\Hierarchy\bin\Debug\netcoreapp2.1\Hierarchy.deps.json
+D:\Architecture\Microsoervices\HttpClientFactory\Hierarchy\bin\Debug\netcoreapp2.1\Hierarchy.runtimeconfig.json
+D:\Architecture\Microsoervices\HttpClientFactory\Hierarchy\bin\Debug\netcoreapp2.1\Hierarchy.runtimeconfig.dev.json
+D:\Architecture\Microsoervices\HttpClientFactory\Hierarchy\bin\Debug\netcoreapp2.1\Hierarchy.dll
+D:\Architecture\Microsoervices\HttpClientFactory\Hierarchy\bin\Debug\netcoreapp2.1\Hierarchy.pdb
+D:\Architecture\Microsoervices\HttpClientFactory\Hierarchy\obj\Debug\netcoreapp2.1\Hierarchy.RazorTargetAssemblyInfo.cache
+D:\Architecture\Microsoervices\HttpClientFactory\Hierarchy\obj\Debug\netcoreapp2.1\Hierarchy.dll
+D:\Architecture\Microsoervices\HttpClientFactory\Hierarchy\obj\Debug\netcoreapp2.1\Hierarchy.pdb

@@ -1,0 +1,17 @@
+D:\Architecture\Microsoervices\HttpClientFactory\Users\bin\Debug\netcoreapp2.1\Users.deps.json
+D:\Architecture\Microsoervices\HttpClientFactory\Users\bin\Debug\netcoreapp2.1\Users.runtimeconfig.json
+D:\Architecture\Microsoervices\HttpClientFactory\Users\bin\Debug\netcoreapp2.1\Users.runtimeconfig.dev.json
+D:\Architecture\Microsoervices\HttpClientFactory\Users\bin\Debug\netcoreapp2.1\Users.dll
+D:\Architecture\Microsoervices\HttpClientFactory\Users\bin\Debug\netcoreapp2.1\Users.pdb
+D:\Architecture\Microsoervices\HttpClientFactory\Users\obj\Debug\netcoreapp2.1\Users.csproj.CoreCompileInputs.cache
+D:\Architecture\Microsoervices\HttpClientFactory\Users\obj\Debug\netcoreapp2.1\Users.RazorAssemblyInfo.cache
+D:\Architecture\Microsoervices\HttpClientFactory\Users\obj\Debug\netcoreapp2.1\Users.RazorAssemblyInfo.cs
+D:\Architecture\Microsoervices\HttpClientFactory\Users\obj\Debug\netcoreapp2.1\Users.AssemblyInfoInputs.cache
+D:\Architecture\Microsoervices\HttpClientFactory\Users\obj\Debug\netcoreapp2.1\Users.AssemblyInfo.cs
+D:\Architecture\Microsoervices\HttpClientFactory\Users\obj\Debug\netcoreapp2.1\Users.RazorTargetAssemblyInfo.cache
+D:\Architecture\Microsoervices\HttpClientFactory\Users\obj\Debug\netcoreapp2.1\Users.dll
+D:\Architecture\Microsoervices\HttpClientFactory\Users\obj\Debug\netcoreapp2.1\Users.pdb
+D:\Architecture\Microsoervices\HttpClientFactory\Users\bin\Debug\netcoreapp2.1\HttpClientFactory.dll
+D:\Architecture\Microsoervices\HttpClientFactory\Users\bin\Debug\netcoreapp2.1\HttpClientFactory.pdb
+D:\Architecture\Microsoervices\HttpClientFactory\Users\obj\Debug\netcoreapp2.1\Users.csprojAssemblyReference.cache
+D:\Architecture\Microsoervices\HttpClientFactory\Users\obj\Debug\netcoreapp2.1\Users.csproj.CopyComplete
